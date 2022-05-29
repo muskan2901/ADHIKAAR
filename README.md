@@ -4,7 +4,6 @@
 <br>
 
 
-![Title Image](static/img/AI_EVM.png)
 
 <br>
 
@@ -82,7 +81,7 @@ The project architecture is divided into three layers as below.
 
 <br>
 
-![Project Architecture](static/img/architecture.png)
+
 
 <br>
 
