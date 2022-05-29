@@ -29,6 +29,8 @@ Many expenditures associated with manual work at polling booths can be reduced w
 It is suggested to use virtual `python==3.6` environment for this project.
 
 <br>
+Download these two folders in the directory
+https://drive.google.com/drive/folders/1zEC_twivnHNX8kXPyUixzorOgXojenHF?usp=sharing
 
 If you have anaconda installed, you can create a new empty virtual enviroment as shown below
 
