@@ -1,16 +1,19 @@
+
 # ADHIKAAR: Transparency in Voting:
 
 <br>
+
 
 ![Title Image](static/img/AI_EVM.png)
 
 <br>
 
+
 ## Demo
 
 Click to watch full demo <br>
 
-[![Intro](Demo.gif)](https://drive.google.com/file/d/1QwlWrVxVcpSU3ffnwAzOTcl1Q1ggCN-T/view?usp=sharing)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90378057/170876241-4684fa4b-d12a-4d57-884b-a3624e8314ea.gif)
 
 <br>
 
